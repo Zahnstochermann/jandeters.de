@@ -17,7 +17,7 @@ const Portfolio = () => {
 
   return (
     <div className="portfolio" id="portfolio">
-      <h2>Portfolio</h2>
+      <h2>Things I built</h2>
       {/* <p>A selection of projects I worked on for companies or private, ongoing projects.</p>
         <br />
         <br /> */}

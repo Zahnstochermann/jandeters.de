@@ -1,4 +1,5 @@
 import priodo_screenshot from '../assets/images/project_images/priodo_iphone.png'
+import zettel_phone from '../assets/images/project_images/zettel.png'
 import yfu_app_prototype from '../assets/images/project_images/yfu_iphone.png'
 import dragonlands from '../assets/images/project_images/dragonlands.png'
 import viergewinnt_imac from '../assets/images/project_images/viergewinnt_imac.png'
@@ -10,7 +11,7 @@ const projects_data = {
 				title: 'Zettel', //Project Title - Add Your Project Title Here
 				service: 'Design & Development', // Add Your Service Type Here
 				//Project Image - Add Your Project Image Here
-				imageSrc: priodo_screenshot,
+				imageSrc: zettel_phone,
 				//Project URL - Add Your Project Url Here
 				url: 'https://zettel.netlify.app/',
 				linkToProject: '',
